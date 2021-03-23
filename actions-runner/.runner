@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "Queilas-MacBook-Pro",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/1EgPqXJcpkPASwMbJma569m2lFEhKXr8r9gd7E6YJmAk7dISuv",
+  "gitHubUrl": "https://github.com/queilawithaQ/sinatra",
+  "workFolder": "_work"
+}
